@@ -551,7 +551,6 @@ Ergonomics & HCI:
 This project was conceived, architected, and developed in fulfillment of the **HSSM301 Product Design Group Project**:
 
 - **Course**: HSSM301 — Product Design
-- **Institution**: Fr. C. Rodrigues Institute of Technology (FCRIT), Sector 9A, Vashi, Navi Mumbai, Maharashtra, India.
 - **Core Domain**: Circular Economy, Sustainable Product Design, Industrial Lifecycle Engineering, and Human-Centered Digital Interface Architecture.
 - **Sustainable Development Goals (SDGs) Aligned**:
   - 🎯 **UN SDG 12**: Responsible Consumption & Production
